@@ -1,4 +1,4 @@
-## 🎮 Projeto Jogo Detona Ralph
+## 🎮 Projeto Jogo Da Memória
 Desafio de projeto proposto pelo expert Felipe Aguiar da plataforma da DIO (Digital Innovation One). <br>
 O objetivo desse projeto é criar um jogo da Memória com HTML, CSS e JavaScript.
 
